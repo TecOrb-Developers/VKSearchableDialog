@@ -1,4 +1,4 @@
-# AndroidDateTimeUtils
+# VKSearchableDialog
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 [![Platform](https://img.shields.io/badge/platform-android-green.svg)](http://developer.android.com/index.html)
 [![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=23)
@@ -31,7 +31,7 @@ SearchableDialog is a dialog with the search feature which allows to search the 
 
 ```groovy
     dependencies {
-    implementation 'com.github.TecOrb-Developers:AndroidDateTimeUtils:v1.0.4'
+    implementation 'com.github.TecOrb-Developers:VKSearchableDialog:v1.0.0'
 }
 ```
 

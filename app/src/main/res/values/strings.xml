@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VKSearchViewDialog</string>
+    <string name="hint_select_os">Select Android OS</string>
+</resources>
